@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Sue Ellen Francisco', cursive;
+  background-color: #111;
+  color: #ff4500;
+  padding: 30px;
+}
